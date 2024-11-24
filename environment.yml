@@ -1,0 +1,12 @@
+name: /Users/andy/projects/2024-slayer/plotly-demo/.conda
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - ipykernel
+  - plotly
+  - yaml
+  - jupyter
+  - pandas
+prefix: /Users/andy/projects/2024-slayer/plotly-demo/.conda
