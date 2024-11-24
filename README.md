@@ -10,10 +10,16 @@ Note the `.nojekyll` file here and also in `docs/` (not sure it's required in bo
 2. Publish/sync to GitHub
 3. Change the repo settings to set up Pages (one time only)
 
-Set to publish from the main brach, using the `docs/` folder:
+Set to publish from the main brach, using the `docs/` folder.
+
+From the repo page, go to Settings:
 
 ![](media/repo-settings1.png)
 
+In Settings, go to Pages:
+
 ![](media/repo-settings2.png)
+
+In the Pages page, change to publish from the main branch using the `docs/` folder:
 
 ![](media/repo-settings3.png)
